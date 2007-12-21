@@ -1,0 +1,20 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/INSTALL -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-eo-ca.ca-eo.t1x -text
+/apertium-eo-ca.ca-eo.t2x -text
+/apertium-eo-ca.ca-eo.t3x -text
+/apertium-eo-ca.ca.dix -text
+/apertium-eo-ca.eo-ca.dix -text
+/apertium-eo-ca.eo.dix -text
+/apertium-eo-ca.post-eo.dix -text
+/autogen.sh -text
+/ca-eo.prob -text svneol=unset#unset
+/configure.ac -text
+/modes.xml -text
+/transliterate.sh -text
