@@ -17,5 +17,6 @@
 /autogen.sh -text
 /ca-eo.prob -text svneol=unset#unset
 /configure.ac -text
+/inconsistency.sh -text
 /modes.xml -text
 /transliterate.sh -text
