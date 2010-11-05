@@ -20,6 +20,7 @@
 /inconsistency.sh -text
 /modes.xml -text
 /nova_versio.sh -text
+/outstanding-tests.sh -text
 /retraduku.sh -text
 tekstaro/ca.crp.txt -text
 tekstaro/indymedia.txt -text
