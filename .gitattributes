@@ -18,6 +18,7 @@
 /apertium-eo-ca.post-eo.dix -text
 /autogen.sh -text
 /ca-eo.prob -text svneol=unset#unset
+/comptar_dix.sh -text
 /configure.ac -text
 /inconsistency.sh -text
 /kompletigu_eo_dix.sh -text
