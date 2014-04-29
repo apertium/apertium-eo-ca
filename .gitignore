@@ -5,6 +5,12 @@
 /Makefile
 /Makefile.in
 /aclocal.m4
+/apertium-eo-ca.ca-eo.t1x.translit
+/apertium-eo-ca.ca-eo.t2x.translit
+/apertium-eo-ca.ca-eo.t3x.translit
+/apertium-eo-ca.eo-ca.dix.translit
+/apertium-eo-ca.eo.dix.translit
+/apertium-eo-ca.post-eo.dix.translit
 /autom4te.cache
 /config
 /config.in
