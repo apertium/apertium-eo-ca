@@ -3246,6 +3246,7 @@ apertium-dixtools fix apertium-eo-ca.eo.dix.new2 apertium-eo-ca.eo.dix.new3
 <e lm="diferenco">       <i>diferenc</i><par n="o__n"/></e>
 <e lm="diferenca">       <i>diferenc</i><par n="a__adj"/></e>
 <e lm="diferenci">       <i>diferenc</i><par n="i__vblex"/></e>
+<e lm="diferencigi">     <i>diferencig</i><par n="i__vblex"/></e>
 <e lm="diferencigo">     <i>diferencig</i><par n="o__n"/></e>
 <e lm="diferenciga">     <i>diferencig</i><par n="a__adj"/></e>
 <e lm="difino">          <i>difin</i><par n="o__n"/></e>
@@ -3573,6 +3574,14 @@ apertium-dixtools fix apertium-eo-ca.eo.dix.new2 apertium-eo-ca.eo.dix.new3
 <e lm="duka">            <i>duk</i><par n="a__adj"/></e>
 <e lm="dukejo">          <i>dukej</i><par n="o__n"/></e>
 <e lm="dulingva">        <i>dulingv</i><par n="a__adj"/></e>
+<e lm="plurlingva">      <i>plurlingv</i><par n="a__adj"/></e>
+<e lm="multlingva">      <i>multlingv</i><par n="a__adj"/></e>
+<e lm="unulingva">       <i>unulingv</i><par n="a__adj"/></e>
+<e lm="unulingvismo">    <i>unulingvism</i><par n="o__n"/></e>
+<e lm="dulingvismo">     <i>dulingvism</i><par n="o__n"/></e>
+<e lm="trilingvismo">    <i>trilingvism</i><par n="o__n"/></e>
+<e lm="plurlingvismo">   <i>plurlingvism</i><par n="o__n"/></e>
+<e lm="multlingvismo">   <i>multlingvism</i><par n="o__n"/></e>
 <e lm="dum">             <i>dum</i><par n="after__cnjadv"/></e>
 <e lm="dume">            <i>dum</i><par n="e__adv"/></e>
 <e lm="dum">             <i>dum</i><par n="al__pr"/></e>
