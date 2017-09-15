@@ -864,16 +864,6 @@ apertium-dixtools fix apertium-eo-ca.ca.dix.new2 apertium-eo-ca.ca.dix.new3
   <e>       <p><l>à</l>         <r>à<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
 </pardef>
 
-<pardef n="/ampli__adj">
-  <e>       <p><l>àmplies</l>   <r>ampli<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
-
-  <e>       <p><l>àmplia</l>    <r>ampli<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
-
-  <e>       <p><l>amplis</l>    <r>ampli<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
-
-  <e>       <p><l>ampli</l>     <r>ampli<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
-
-</pardef>
 <pardef n="abstract/e__adj">
       
   <e>       <p><l>es</l>        <r>e<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
@@ -3601,19 +3591,6 @@ apertium-dixtools fix apertium-eo-ca.ca.dix.new2 apertium-eo-ca.ca.dix.new3
   <e>       <p><l>ins</l>       <r>í<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
   <e>       <p><l>í</l>         <r>í<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-</pardef>
-
-<pardef n="angl/ès__n">
-
-  <e>       <p><l>eses</l>      <r>ès<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-
-  <e>       <p><l>esa</l>       <r>ès<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-
-  <e>       <p><l>esos</l>      <r>ès<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-
-  <e>       <p><l>ès</l>        <r>ès<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-
-  <e r="LR"><p><l>és</l>        <r>ès<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 </pardef>
 
 <pardef n="andal/ús__n">
@@ -8879,156 +8856,6 @@ apertium-dixtools fix apertium-eo-ca.ca.dix.new2 apertium-eo-ca.ca.dix.new3
   <e r="LR"><p><l>cer</l>       <r>cer<s n="vblex"/><s n="inf"/></r></p></e>
       
   <e r="LR"><p><l>cer</l>       <r>cer<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__anant"/></e>
-</pardef>
-<pardef n="fo/ndre__vblex">
-      
-  <e>       <p><l>ndríem</l>    <r>ndre<s n="vblex"/><s n="cni"/><s n="p1"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>ndria</l>     <r>ndre<s n="vblex"/><s n="cni"/><s n="p1"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>ndríeu</l>    <r>ndre<s n="vblex"/><s n="cni"/><s n="p2"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>ndries</l>    <r>ndre<s n="vblex"/><s n="cni"/><s n="p2"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>ndrien</l>    <r>ndre<s n="vblex"/><s n="cni"/><s n="p3"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>ndria</l>     <r>ndre<s n="vblex"/><s n="cni"/><s n="p3"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>ndrem</l>     <r>ndre<s n="vblex"/><s n="fti"/><s n="p1"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>ndré</l>      <r>ndre<s n="vblex"/><s n="fti"/><s n="p1"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>ndreu</l>     <r>ndre<s n="vblex"/><s n="fti"/><s n="p2"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>ndràs</l>     <r>ndre<s n="vblex"/><s n="fti"/><s n="p2"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>ndran</l>     <r>ndre<s n="vblex"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>ndrà</l>      <r>ndre<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>nent</l>      <r>ndre<s n="vblex"/><s n="ger"/></r></p></e>
-      
-  <e>       <p><l>nent</l>      <r>ndre<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__anant"/></e>
-      
-  <e r="LR"><p><l>nguérem</l>   <r>ndre<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e>
-      
-  <e r="LR"><p><l>nguí</l>      <r>ndre<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e>
-      
-  <e r="LR"><p><l>nguéreu</l>   <r>ndre<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e>
-      
-  <e r="LR"><p><l>ngueres</l>   <r>ndre<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e>
-      
-  <e r="LR"><p><l>ngueren</l>   <r>ndre<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e>
-      
-  <e r="LR"><p><l>ngué</l>      <r>ndre<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>nguem</l>     <r>ndre<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>nguem</l>     <r>ndre<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aneu"/></e>
-      
-  <e>       <p><l>neu</l>       <r>ndre<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>neu</l>       <r>ndre<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aneu"/></e>
-      
-  <e>       <p><l>n</l>         <r>ndre<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>n</l>         <r>ndre<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__aclareix"/></e>
-      
-  <e>       <p><l>nguin</l>     <r>ndre<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
-      
-  <e r="LR"><p><l>nguen</l>     <r>ndre<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>nguin</l>     <r>ndre<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__anant"/></e>
-      
-  <e r="LR"><p><l>nguen</l>     <r>ndre<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__anant"/></e>
-      
-  <e>       <p><l>ngui</l>      <r>ndre<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
-      
-  <e r="LR"><p><l>nga</l>       <r>ndre<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>ngui</l>      <r>ndre<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__vagi"/></e>
-      
-  <e r="LR"><p><l>nga</l>       <r>ndre<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__vagi"/></e>
-      
-  <e>       <p><l>ndre</l>      <r>ndre<s n="vblex"/><s n="inf"/></r></p></e>
-      
-  <e>       <p><l>ndre</l>      <r>ndre<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__vagi"/></e>
-      
-  <e>       <p><l>níem</l>      <r>ndre<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>nia</l>       <r>ndre<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>níeu</l>      <r>ndre<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>nies</l>      <r>ndre<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>nien</l>      <r>ndre<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>nia</l>       <r>ndre<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>nguéssim</l>  <r>ndre<s n="vblex"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
-      
-  <e r="LR"><p><l>nguérem</l>   <r>ndre<s n="vblex"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>ngués</l>     <r>ndre<s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
-      
-  <e r="LR"><p><l>nguera</l>    <r>ndre<s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>nguéssiu</l>  <r>ndre<s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
-      
-  <e r="LR"><p><l>nguéreu</l>   <r>ndre<s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>nguessis</l>  <r>ndre<s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
-      
-  <e r="LR"><p><l>ngueres</l>   <r>ndre<s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>nguessin</l>  <r>ndre<s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
-      
-  <e r="LR"><p><l>ngueren</l>   <r>ndre<s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>ngués</l>     <r>ndre<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
-      
-  <e r="LR"><p><l>nguera</l>    <r>ndre<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>ses</l>       <r>ndre<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>sa</l>        <r>ndre<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>sos</l>       <r>ndre<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>s</l>         <r>ndre<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>nem</l>       <r>ndre<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>nc</l>        <r>ndre<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>neu</l>       <r>ndre<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>ns</l>        <r>ndre<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>nen</l>       <r>ndre<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>n</l>         <r>ndre<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>nguem</l>     <r>ndre<s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>ngui</l>      <r>ndre<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
-      
-  <e r="LR"><p><l>nga</l>       <r>ndre<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>ngueu</l>     <r>ndre<s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>nguis</l>     <r>ndre<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
-      
-  <e r="LR"><p><l>ngues</l>     <r>ndre<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
-      
-  <e>       <p><l>nguin</l>     <r>ndre<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
-      
-  <e r="LR"><p><l>nguen</l>     <r>ndre<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
-      
-  <e>       <p><l>ngui</l>      <r>ndre<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
-      
-  <e r="LR"><p><l>nga</l>       <r>ndre<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
 </pardef>
 <pardef n="compla/ure__vblex">
       
@@ -15187,31 +15014,6 @@ apertium-dixtools fix apertium-eo-ca.ca.dix.new2 apertium-eo-ca.ca.dix.new3
   <e>       <p><l>in</l>        <r>er<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
       
   <e>       <p><l>i</l>         <r>er<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
-</pardef>
-
-<pardef n="concórr/er__vblex">
-      
-  <e r="LR"><p><l>eguen</l>     <r>er<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
-      
-  <e r="LR"><p><l>eguen</l>     <r>er<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__anant"/></e>
-      
-  <e r="LR"><p><l>ega</l>       <r>er<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
-      
-  <e r="LR"><p><l>ega</l>       <r>er<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__vagi"/></e>
-      
-  <e>       <p><l>er</l>        <r>er<s n="vblex"/><s n="inf"/></r></p></e>
-      
-  <e>       <p><l>er</l>        <r>er<s n="vblex"/><s n="inf"/><j/></r></p><par n="S__anant"/></e>
-      
-  <e r="LR"><p><l>ec</l>        <r>er<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-      
-  <e r="LR"><p><l>ega</l>       <r>er<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
-      
-  <e r="LR"><p><l>egues</l>     <r>er<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
-      
-  <e r="LR"><p><l>eguen</l>     <r>er<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
-      
-  <e r="LR"><p><l>ega</l>       <r>er<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
 </pardef>
 
 <pardef n="/eixir__vblex">
@@ -27459,6 +27261,8 @@ apertium-dixtools fix apertium-eo-ca.ca.dix.new2 apertium-eo-ca.ca.dix.new3
 <e lm="en total">        <i>en<b/>total</i><par n="sempre__adv"/></e>
 <e lm="en turc">         <i>en<b/>turc</i><par n="sempre__adv"/></e>
 <e lm="en txec">         <i>en<b/>txec</i><par n="sempre__adv"/></e>
+<e lm="en txuvaix">      <i>en<b/>txuvaix</i><par n="sempre__adv"/></e>
+<e lm="en tàtar">        <i>en<b/>tàtar</i><par n="sempre__adv"/></e>
 <e lm="en ucraïnès">     <i>en<b/>ucraïnès</i><par n="sempre__adv"/></e>
 <e lm="en un mal moment"><i>en<b/>un<b/>mal<b/>moment</i><par n="sempre__adv"/></e>
 <e lm="en un no res">    <i>en<b/>un<b/>no<b/>res</i><par n="sempre__adv"/></e>
@@ -29608,6 +29412,7 @@ casa situada a Tarragona -> lokita en domo Tarragona
 <e lm="fòsfor">          <i>fòsfor</i><par n="abric__n"/></e>
 <e lm="fòssil">          <i>fòssil</i><par n="abric__n"/></e>
 <e lm="fórmula">         <i>fórmul</i><par n="abell/a__n"/></e>
+<e lm="formulari">       <i>formulari</i><par n="abric__n"/></e>
 <e lm="fúmer">           <i>fúm</i><par n="prém/er__vblex"/></e>
 <e lm="fúria">           <i>fúri</i><par n="abell/a__n"/></e>
 <e lm="fútil">           <i>fútil</i><par n="abdominal__adjadv"/></e>
@@ -35898,6 +35703,8 @@ sempre són plurals, en comptes de tenir en compte el nombre del nom anterior)
 <e lm="realitat">        <i>realitat</i><par n="accessibilitat__n"/></e>
 <e lm="realitzar">       <i>realitz</i><par n="abander/ar__vblex"/></e>
 <e lm="realització">     <i>realitzaci</i><par n="acci/ó__n"/></e>
+<e lm="implementar">     <i>implement</i><par n="abander/ar__vblex"/></e>
+<e lm="implementació">   <i>implementaci</i><par n="acci/ó__n"/></e>
 <e lm="realment">        <i>realment</i><par n="sempre__adv"/></e>
 <e lm="reanimar">        <i>reanim</i><par n="abander/ar__vblex"/></e>
 <e lm="reaparèixer">     <p><l>reapare</l>   <r>reaparè</r></p><par n="apare/ixer__vblex"/></e>

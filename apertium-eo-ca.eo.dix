@@ -4261,6 +4261,10 @@ apertium-dixtools fix apertium-eo-ca.eo.dix.new2 apertium-eo-ca.eo.dix.new3
 <e lm="en la ĉeĥa lingvo"><i>en<b/>la<b/>ĉeĥa<b/>lingvo</i><par n="jam__adv"/></e>
 <e lm="en la ĉina">      <i>en<b/>la<b/>ĉina</i><par n="jam__adv"/></e>
 <e lm="en la ĉina lingvo"><i>en<b/>la<b/>ĉina<b/>lingvo</i><par n="jam__adv"/></e>
+<e lm="en la ĉuvaŝa">     <i>en<b/>la<b/>ĉuvaŝa</i><par n="jam__adv"/></e>
+<e lm="en la ĉuvaŝa lingvo"><i>en<b/>la<b/>ĉuvaŝa<b/>lingvo</i><par n="jam__adv"/></e>
+<e lm="en la tatara">     <i>en<b/>la<b/>tatara</i><par n="jam__adv"/></e>
+<e lm="en la tatara lingvo"><i>en<b/>la<b/>tatara<b/>lingvo</i><par n="jam__adv"/></e>
 <e lm="en larĝa senco">  <i>en<b/>larĝa<b/>senco</i><par n="jam__adv"/></e>
 <e lm="en latino">       <i>en<b/>latino</i><par n="jam__adv"/></e>
 <e lm="en malbona stato"><i>en<b/>malbona<b/>stato</i><par n="jam__adv"/></e>
@@ -5137,6 +5141,7 @@ apertium-dixtools fix apertium-eo-ca.eo.dix.new2 apertium-eo-ca.eo.dix.new3
 <e lm="formikado">       <i>formikad</i><par n="o__n"/></e>
 <e lm="formiĝo">         <i>formiĝ</i><par n="o__n"/></e>
 <e lm="Formozo">         <i>Formoz</i><par n="Barcelon/o__np"/></e>
+<e lm="formularo">       <i>formular</i><par n="o__n"/></e>
 <e lm="formulo">         <i>formul</i><par n="o__n"/></e>
 <e lm="forno">           <i>forn</i><par n="o__n"/></e>
 <e lm="forpardono">      <i>forpardon</i><par n="o__n"/></e>
@@ -16418,6 +16423,8 @@ apertium-dixtools fix apertium-eo-ca.eo.dix.new2 apertium-eo-ca.eo.dix.new3
 <e lm="turista">         <i>turist</i><par n="a__adj"/></e>
 <e lm="turko">           <i>turk</i><par n="ino__n"/></e>
 <e lm="turke">           <i>turk</i><par n="e__adv"/></e>
+<e lm="ĉuvaŝe">          <i>ĉuvaŝ</i><par n="e__adv"/></e>
+<e lm="tatare">          <i>tatar</i><par n="e__adv"/></e>
 <e lm="Turkio">          <i>Turki</i><par n="Barcelon/o__np"/></e>
 <e lm="turkiso">         <i>turkis</i><par n="o__n"/></e>
 <e lm="turkmeno">        <i>turkmen</i><par n="ino__n"/></e>
