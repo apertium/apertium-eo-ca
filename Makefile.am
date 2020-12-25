@@ -1,4 +1,3 @@
-VERSION=0.9.1
 LANG1=eo
 LANG2=ca
 PREFIX1=$(LANG2)-$(LANG1)
@@ -13,6 +12,9 @@ TARGETS_COMMON = $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autog
      $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin
 
 TARGETS = $(TARGETS_COMMON)
+
+# This include defines goals for install-modes, .deps/.d and .mode files:
+@ap_include@
 
 $(PREFIX1).antaux_t2x.bin: $(BASENAME).$(PREFIX1).antaux_t2x
 	apertium-validate-interchunk $(BASENAME).$(PREFIX1).antaux_t2x
@@ -111,27 +113,13 @@ apertium_eo_ca_DATA=$(PREFIX1).automorf.bin \
 		    $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin \
 		    $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x $(BASENAME).$(PREFIX1).t3x \
 		    $(BASENAME).$(PREFIX1).t1x.translit $(BASENAME).$(PREFIX1).t2x.translit $(BASENAME).$(PREFIX1).t3x.translit \
-		    $(BASENAME).$(PREFIX1).antaux_t2x  $(BASENAME).$(PREFIX1).antaux2_t2x 
+		    $(BASENAME).$(PREFIX1).antaux_t2x  $(BASENAME).$(PREFIX1).antaux2_t2x
 
 apertium_eo_cadir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_modesdir=$(prefix)/share/apertium/modes/
-
-modes/$(PREFIX1).mode: modes.xml
-	apertium-validate-modes modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
 
-install-data-local:
-	mv modes modes.bak
-	apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	rm -rf modes
-	mv modes.bak modes
-	test -d $(DESTDIR)$(apertium_modesdir) || mkdir $(DESTDIR)$(apertium_modesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_modesdir)
-	$(INSTALL_DATA) $(PREFIX2).mode $(DESTDIR)$(apertium_modesdir)
+install-data-local: install-modes
 
-
-CLEANFILES = -rf $(TARGETS) *.translit modes 
+CLEANFILES = -rf $(TARGETS) *.translit modes

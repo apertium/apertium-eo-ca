@@ -1,65 +1,8 @@
-* text=auto !eol
-/AUTHORS -text
-/COPYING -text
-/ChangeLog -text
-/Makefile.am -text
-/NEWS -text
-/README -text
-/TODO -text
-/apertium-eo-ca.ca-eo.antaux2_t2x -text
-/apertium-eo-ca.ca-eo.antaux_t2x -text
-/apertium-eo-ca.ca-eo.rlx -text
-/apertium-eo-ca.ca-eo.t1x -text
-/apertium-eo-ca.ca-eo.t2x -text
-/apertium-eo-ca.ca-eo.t3x -text
-/apertium-eo-ca.ca.acx -text
-/apertium-eo-ca.ca.dix -text
-/apertium-eo-ca.eo-ca.dix -text
-/apertium-eo-ca.eo.dix -text
-/apertium-eo-ca.post-eo.dix -text
-/autogen.sh -text
-/ca-eo.prob -text svneol=unset#unset
-/comptar_dix.sh -text
-/configure.ac -text
-/inconsistency.sh -text
-/kompletigu_eo_dix.sh -text
-/krei_monodix.pl -text
-lexic/Gentilicis[!!-~]dels[!!-~]Municipis[!!-~]de[!!-~]Catalunya[!!-~](2009).xls -text
-lexic/Gentilicis_CatNord.xls -text
-lexic/Gentilicis_Comarques_Catalunya_0.xls -text
-lexic/Gentilicis_EuropaEstatCap.xls -text
-lexic/Gentilicis_Illes[!!-~]Balears.xls -text
-lexic/cognoms.txt -text
-lexic/gentilicis_mon.txt -text
-lexic/municipis_val.txt -text
-lexic/nomenclator-1227815914.xls -text
-lexic/nomenclator-1477607127.xls -text
-lexic/nomenclator-1620764499.xls -text
-lexic/nomenclator-1654776146.xls -text
-lexic/nomenclator-51471523.xls -text
-lexic/nomenclator-785101799.xls -text
-lexic/nomenclator-834856909.xls -text
-lexic/nomenclator-861847075.xls -text
-lexic/nomenclator-984718478.xls -text
-lexic/nomenclator1128570567.xls -text
-lexic/nomenclator135259544.xls -text
-lexic/nomenclator1454476995.xls -text
-lexic/nomenclator159226169.xls -text
-lexic/nomenclator1671580249.xls -text
-lexic/nomenclator1758953505.xls -text
-lexic/nomenclator657729631.xls -text
-lexic/nomenclator696914069.xls -text
-lexic/nomenclator785694652.xls -text
-lexic/noms.txt -text
-/modes.xml -text
-/nova_versio.sh -text
-/outstanding-tests.sh -text
-/retraduku.sh -text
-tekstaro/ca.crp.txt -text
-tekstaro/indymedia.txt -text
-/transliterate.sh -text
+* text eol=lf
 *.dix linguist-language=XML linguist-detectable=true
 *.lrx linguist-language=XML linguist-detectable=true
 *.lsx linguist-language=XML linguist-detectable=true
 *.tsx linguist-language=XML linguist-detectable=true
 *.t[[:digit:]]x linguist-language=XML linguist-detectable=true
+*.xls binary
+*.prob binary
