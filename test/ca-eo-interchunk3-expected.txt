@@ -1,0 +1,22 @@
+[0DUCxD10owuT#0] ^cm<sent>{^,<cm>$}$
+[/0DUCxD10owuT]
+[8m__a-jjHcPM#0] ^ekster<pr>{^ekster<pr>$}$
+[/8m__a-jjHcPM]
+[NO8mbgFkj7bg#0] ^por<pr>{^por<pr>$}$
+[/NO8mbgFkj7bg]
+[QbgF6nrAFOI1#0] ^punt<sent>{^;<sent>$}$
+[/QbgF6nrAFOI1]
+[XGLgkbjAVl8b#0] ^unknown<unknown>{^*P$}$
+[/XGLgkbjAVl8b]
+[XaOJfGUt_-DX#0] ^sur<pr>{^sur<pr>$}$
+[/XaOJfGUt_-DX]
+[cmp1-rjDbEqd#0] ^krom<pr>{^krom<pr>$}$
+[/cmp1-rjDbEqd]
+[rXI_QseroxbZ#0] ^det<DET><mf><sp><nom><nom>{^625<num><ciph><sp><4>$}$
+[/rXI_QseroxbZ]
+[u93s70SQXHT8#0] ^unknown<unknown>{^*uiuinpulelc$}$
+[/u93s70SQXHT8]
+[ul7FHQekrA6V#0] ^default<default>{^)<rpar>$}$
+[/ul7FHQekrA6V]
+[zbTuKuppzGqD#0] ^punt<sent>{^.<sent>$}$
+[/zbTuKuppzGqD]
