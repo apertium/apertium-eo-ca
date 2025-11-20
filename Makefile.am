@@ -115,7 +115,7 @@ apertium_eo_ca_DATA=$(PREFIX1).automorf.bin \
 		    $(BASENAME).$(PREFIX1).t1x.translit $(BASENAME).$(PREFIX1).t2x.translit $(BASENAME).$(PREFIX1).t3x.translit \
 		    $(BASENAME).$(PREFIX1).antaux_t2x  $(BASENAME).$(PREFIX1).antaux2_t2x
 
-apertium_eo_cadir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
+apertium_eo_cadir=$(prefix)/share/apertium/$(BASENAME)/
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
